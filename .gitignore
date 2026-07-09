@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model weights
+models/*.pth
+models/*.pt
+models/*.ckpt
+
+# Datasets
+data/
+datasets/
+
+# Generated outputs
+results/
+val_qgis_*/
+predictions/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
