@@ -1,0 +1,18 @@
+# Core
+numpy
+pandas
+pillow
+matplotlib
+tqdm
+
+# PyTorch (install CUDA version separately if you have GPU)
+torch
+torchvision
+
+# Segmentation & augmentation
+segmentation-models-pytorch
+albumentations
+opencv-python
+
+# Utilities
+scikit-image
